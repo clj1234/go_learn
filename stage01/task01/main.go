@@ -11,6 +11,7 @@ func main() {
 }
 
 func singleNumber(nums []int) int {
+
 	if len(nums) <= 0 {
 		return 0
 	} else if len(nums) <= 1 {
