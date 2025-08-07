@@ -16,6 +16,8 @@ import (
 解释：输入数组表示数字 4321。
 加 1 后得到 4321 + 1 = 4322。
 因此，结果应该是 [4,3,2,2]。
+
+https://leetcode-cn.com/problems/plus-one/
 */
 func main() {
 	iarr := make([]int, 100)
