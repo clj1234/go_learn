@@ -1,3 +1,3 @@
-module stage01/task05
+module stage01-1/task05
 
 go 1.23.0
